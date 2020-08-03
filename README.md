@@ -1,9 +1,12 @@
-### Hi there 👋
+### danstronoid
+
+---
 
 - 🎸 Bassist & maker of beep-boops @ Astronoid
 - 🔉 Audio Engineer @ Futura Productions
 - 🎓 CS Master's candidate @ University of Pennsylvania
 
+---
 
 - 🔭 I’m currently working on a modulation VST plugin using JUCE.
 - 👯 I’m looking to collaborate on anything audio related!
