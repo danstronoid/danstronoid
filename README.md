@@ -1,4 +1,4 @@
-# danstronoid
+# 👋
 - 🎸 Bassist & maker of beep-boops @ Astronoid
 - 🔉 Audio Engineer @ Futura Productions
 - 🎓 CS Master's candidate @ University of Pennsylvania
