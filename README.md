@@ -1,8 +1,8 @@
 # 👋
-- 🎸 Bassist & maker of beep-boops @ Astronoid
-- 🔉 Audio Engineer @ Futura Productions
 - 🎓 CS Master's candidate @ University of Pennsylvania
-- 🔭 Currently working on a modulation VST3 plugin using JUCE
+- - 🎸 Bassist & maker of beep-boops @ Astronoid
+- 🔉 Audio Engineer @ Futura Productions
+- 🔭 Currently working on a DSP chorus for the Daisy Seed embedded platform
 - 👯 Looking to collaborate on anything audio or music related!
 
 <!--
