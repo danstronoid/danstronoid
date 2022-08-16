@@ -2,7 +2,6 @@
 - 🎓 CS Master's candidate @ University of Pennsylvania
 - 🎸 Bassist & maker of beep-boops @ Astronoid
 - 🔉 Audio Engineer @ Futura Productions
-- 🔭 Currently working on a DSP chorus for the Daisy Seed embedded platform
 - 👯 Looking to collaborate on anything audio or music related!
 
 <!--
