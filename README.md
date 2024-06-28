@@ -1,8 +1,4 @@
 # 👋
-- 🎓 CS Master's candidate @ University of Pennsylvania
-- 🎸 Bassist & maker of beep-boops @ Astronoid
-- 🔉 Audio Engineer @ Futura Productions
-- 👯 Looking to collaborate on anything audio or music related!
 
 <!--
 **danstronoid/danstronoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
